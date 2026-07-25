@@ -1,4 +1,4 @@
-# BackgroundKiller (BgFreeze)
+# BackgroundKiller (BgFreeze) UBK
 
 **BgFreeze** — модуль для Magisk / KernelSU, который замораживает фоновые процессы и включает агрессивный Doze для экономии батареи и снижения нагрева на Xiaomi.
 
